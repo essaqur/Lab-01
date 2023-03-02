@@ -13,6 +13,8 @@ wget https://sourceforge.net/projects/boost/files/boost/1.72.0/boost_1_72_0.tar.
 ```
 tar -xf boost_1_72_0.tar.gz
 ```
+![image](https://user-images.githubusercontent.com/109910115/222474914-b9307518-98de-49d4-9f94-0cdfff73c447.png)
+
 ## Задание №3
 Подсчитайте количество файлов в директории не включая вложенные директории
 ```
