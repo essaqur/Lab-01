@@ -6,6 +6,8 @@ tp-labs 01
 ```
 wget https://sourceforge.net/projects/boost/files/boost/1.72.0/boost_1_72_0.tar.gz
 ```
+![image](https://user-images.githubusercontent.com/109910115/222474682-8342a836-7eae-4098-8752-f9a1c6c1e1c7.png)
+
 ## Задание №2
 Разархивируйте скачанный файл в директорию
 ```
